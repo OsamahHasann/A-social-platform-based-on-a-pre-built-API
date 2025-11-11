@@ -4,7 +4,7 @@ let lastPage = 1;
 
 window.addEventListener("scroll", () => {
   const endOfpage =
-    window.innerHeight + window.pageYOffset >= document.body.scrollHeight;
+    window.innerHeight + window.pageYOffset >= document.documentElement.scrollHeight;
   console.log( window.innerHeight, window.pageYOffset  )
   
   if (endOfpage && currentPage < lastPage) {
