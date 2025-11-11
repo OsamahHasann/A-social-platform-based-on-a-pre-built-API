@@ -6,7 +6,7 @@ For this project, I used a pre-built API from 'Tarmeez Academy', which provided 
 
 ---
 
-## 🚀 Features I Implemented
+##  Features I Implemented
 
 I focused on implementing the core features of any social platform:
 
@@ -29,7 +29,7 @@ I focused on implementing the core features of any social platform:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **HTML5:** (`index.html`, `profile.html`, `postDetalis.html`).
 * **Bootstrap 5:** I relied on this heavily for all UI components, especially the Navbar, Cards, and Modals.
@@ -38,7 +38,7 @@ I focused on implementing the core features of any social platform:
 
 ---
 
-## 🔌 How I Handled the API
+##  How I Handled the API
 
 Handling the API was the core of this project.
 
@@ -51,7 +51,7 @@ Handling the API was the core of this project.
 
 ---
 
-## 📂 Code Structure
+##  Code Structure
 
 To keep things clean, I separated the JavaScript logic:
 
@@ -61,7 +61,7 @@ To keep things clean, I separated the JavaScript logic:
 
 ---
 
-## ⚙️ How to Run This Project
+##  How to Run This Project
 
 This is a static site, so it's very simple:
 
